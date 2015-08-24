@@ -6,9 +6,15 @@ canvas画北斗七星和大熊座
  
      大致效果如下（是动态的，一点一点显示的）：
 
+<<<<<<< HEAD
       
       ![](https://raw.githubusercontent.com/zhangyudan/beautiful_stars/master/image/1.png)
       
       ![image](https://github.com/zhangyudan/beautiful_stars/raw/master/image/2.png)
         
      
+=======
+![](https://raw.githubusercontent.com/zhangyudan/beautiful_stars/master/image/1.png)
+![image](https://github.com/zhangyudan/beautiful_stars/raw/master/image/2.png)
+![image](https://github.com/zhangyudan/beautiful_stars/raw/master/image/3.png)
+>>>>>>> origin/master
